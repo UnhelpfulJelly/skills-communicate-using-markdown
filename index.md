@@ -4,5 +4,10 @@
 ![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 
 
+```javascript
+var myVar = "Hello, world!";
+```
+
+
 
 Modified the file to contain two test headers:  One H1 header, and one H2 Header.
